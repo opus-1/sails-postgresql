@@ -1,5 +1,5 @@
 {
-  "name": "sails-postgresql",
+  "name": "sails-postgresql-extended",
   "description": "a postgreSQL adapter for Waterline and Sails.js",
   "version": "0.12.2",
   "author": "Cody Stoltman <particlebanana@gmail.com>",
